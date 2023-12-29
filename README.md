@@ -78,7 +78,7 @@ A dark mode is available for users who prefer a visually comfortable experience 
 2. **JWT:**
    - Update `config/default.json` with your JWT secret.
 
-## Configuration
+## Contributors 
 
   - Contributions are welcome! Fork the repository and create a pull request with your changes.
 
